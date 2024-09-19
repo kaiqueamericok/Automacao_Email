@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+</head>
+<body>
+    <div>
+        <h4 style="font-family: Arial, Helvetica, sans-serif; color: #000000;">Olá, boa noite</h4>
+        <p>Sou Kaique e estou expandindo meus conhecimentos</p>
+        <p>Gostaria de saber se você tem interesse em participar de uma conversa</p>
+        <p>Fico no aguardo do seu retorno</p>
+        <p>Att,</p>
+        <h5>Kaique</h5>
+        <h5>Fone (xx) xxxx-xxxx</h5>
+        <h5>e-mail: kaique@e-mail.com</h5>
+    </div>
+    <div style="padding:40px 0px">
+        <div style="height: 500px; width: 400px;">
+            <img src="https://media.licdn.com/dms/image/D4D03AQFZb_w8cD03RQ/profile-displayphoto-shrink_200_200/0/1692649979709?e=2147483647&v=beta&t=6uy6uQ9xYwG1p8V9_3kul6c0DZUNJ8zB-39tHtkTunw" alt="Kaique"> 
+            <a target="_blank" href="https://www.linkedin.com/in/kaiqueamerico/">Meu Linkedin</a>
+    </div> 
+    </div>
+    </div>
+</body>
+</html>
