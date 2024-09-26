@@ -4,8 +4,8 @@ import ssl
 import mimetypes
 
 password = open('senha', 'r').read()
-from_email = 'kaiquetecnologia5@gmail.com'
-to_email = 'kaiquemathor@gmail.com, kaiquetecnologia5@gmail.com'
+from_email = 'seu-email@gmail.com'
+to_email = 'destino@gmail.com , destino2@gmail.com'
 subject = 'Informes BB'
 body = open('dados/corpo.txt', 'r', encoding='utf-8').read()
 
