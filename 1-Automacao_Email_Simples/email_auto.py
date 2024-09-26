@@ -4,8 +4,8 @@ import ssl
 
 password = open('senha', 'r').read()
 #print(password)
-from_email = 'kaiquetecnologia5@gmail.com'
-to_email = 'kaiquemathor@gmail.com , kaiquetecnologia5@gmail.com'
+from_email = 'seu-email@gmail.com'
+to_email = 'destino@gmail.com , destino2@gmail.com'
 subject = 'Consultoria T.I'
 body = '''
 Prezados,
