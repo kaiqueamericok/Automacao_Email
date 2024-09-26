@@ -4,7 +4,7 @@ Este script Python automatiza o envio de e-mails com anexos usando o servidor SM
 🚀 Funcionalidades
 Envio automático de e-mails para múltiplos destinatários.
 Anexação de arquivos no e-mail (imagens, PDFs, etc.).
-Envio seguro de e-mails via SMTP com SSL.
+Envio seguro de e-mails via SMTP com SSL.<p>
 📋 Pré-requisitos
 Antes de começar, você vai precisar das seguintes bibliotecas instaladas no seu ambiente Python
 pip install email smtplib ssl mimetypes
@@ -16,11 +16,11 @@ Corpo do E-mail: Crie um arquivo corpo.txt dentro da pasta dados/ contendo o con
 
 Anexo: Coloque o arquivo a ser anexado no mesmo diretório do script e altere o nome do arquivo no código, se necessário.
 
-🗂️ Estrutura do Projeto
-Copiar código
-📂 projeto-email-automation/
- ┣ 📜 send_email.py
- ┣ 📂 dados/
- ┃ ┗ 📜 corpo.txt
- ┣ 📜 senha
- ┗ 📜 bb_preco.png
+Estrutura do Projeto:
+
+📂 projeto-email-automation/<p>
+ ┣ 📜 send_email.py<p>
+ ┣ 📂 dados/<p>
+ ┃ ┗ 📜 corpo.txt<p>
+ ┣ 📜 senha<p>
+ ┗ 📜 bb_preco.png<p>
